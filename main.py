@@ -1,11 +1,13 @@
 #Import Selenium
 from selenium import webdriver
 import pandas as pd
+from sqlalchemy import create_engine
 
 #Writing our First Selenium Python Test
 web = 'https://sports.tipico.de/en/todays-matches'
-path = '/Users/.../chromedriver'
+path = '/Users/joekrawiec/chromedriver'
 driver = webdriver.Chrome(path)
+driver.implicitly_wait(45)
 driver.get(web)
 
 #Make ChromeDriver click a button
@@ -47,4 +49,8 @@ driver.quit()
 dict_gambling = {'Teams': teams, '1x2': x12}
 #Presenting data in dataframe
 df_gambling = pd.DataFrame.from_dict(dict_gambling)
+
+engine = create_engine('')
+df.to_sql('table', engine)
+
 print(df_gambling)
