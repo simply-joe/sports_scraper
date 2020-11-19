@@ -1,7 +1,9 @@
 #Import Selenium
 from selenium import webdriver
 import pandas as pd
-from sqlalchemy import create_engine
+from google.cloud import bigquery
+
+client = bigquery.Client()
 
 #Writing our First Selenium Python Test
 web = 'https://sports.tipico.de/en/todays-matches'
@@ -49,8 +51,5 @@ driver.quit()
 dict_gambling = {'Teams': teams, '1x2': x12}
 #Presenting data in dataframe
 df_gambling = pd.DataFrame.from_dict(dict_gambling)
-
-engine = create_engine('')
-df.to_sql('table', engine)
-
+df_gambling.to_csv('daily_soccer.csv')
 print(df_gambling)
