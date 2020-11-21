@@ -1,9 +1,10 @@
 #Import Selenium
 from selenium import webdriver
 import pandas as pd
-from google.cloud import bigquery
+# Uncomment to get info into google big query
+# from google.cloud import bigquery
 
-client = bigquery.Client()
+# client = bigquery.Client()
 
 #Writing our First Selenium Python Test
 web = 'https://sports.tipico.de/en/todays-matches'
