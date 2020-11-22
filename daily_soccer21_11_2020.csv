@@ -1,0 +1,1321 @@
+Teams,1x2
+"SC Freiburg
+1 FSV Mainz 05","2.00
+3.60
+3.50"
+"1 FC Cologne
+FC Union Berlin","2.70
+3.40
+2.55"
+"Erzgebirge Aue
+SV Darmstadt 98","2.90
+3.40
+2.40"
+"Hamburger SV
+VfL Bochum","1.60
+4.20
+5.30"
+"Würzburger Kickers
+Hannover 96","4.30
+3.90
+1.75"
+"Greuther Fürth
+Jahn Regensburg","1.80
+3.90
+4.00"
+"VfB Lubeck
+Bayern M. II","3.40
+3.70
+2.00"
+"SpVgg Unterhaching
+FC Viktoria Cologne","2.35
+3.40
+2.90"
+"FC Ingolstadt
+1. FC Magdeburg","1.70
+3.80
+5.00"
+"Home Teams Goals
+Away Teams Goals","2.10
+5.00
+2.35"
+"Home Teams Goals
+Away Teams Goals","1.70
+7.50
+2.65"
+"Home Teams Goals
+Away Teams Goals","1.85
+6.50
+2.40"
+"Fulham FC
+Everton FC","3.70
+3.80
+1.90"
+"Sheffield United
+West Ham United","3.10
+3.20
+2.35"
+"Leeds United
+Arsenal FC","3.00
+3.70
+2.20"
+"Liverpool FC
+Leicester City","1.85
+4.00
+3.70"
+"Manchester City U23
+Chelsea FC U23","1.90
+3.90
+3.00"
+"Manchester United U23
+Tottenham U23","2.20
+3.60
+2.65"
+"Crewe Alexandra U23
+Hull City U23","2.30
+3.60
+2.50"
+"Home Teams Goals
+Away Teams Goals","2.30
+7.00
+1.90"
+"SD Eibar
+CF Getafe","3.30
+2.90
+2.40"
+"Cadiz CF
+Real Sociedad","4.20
+3.80
+1.80"
+"Granada CF
+Real Valladolid","2.10
+3.00
+4.00"
+"CD Alaves
+CF Valencia","2.55
+3.20
+2.80"
+"CE Sabadell
+Las Palmas UD","2.70
+2.90
+2.70"
+"RCD Mallorca
+Sporting Gijon","2.05
+2.90
+4.00"
+"Tenerife CD
+UD Logrones","1.85
+3.00
+4.80"
+"Ponferradina SD
+Real Zaragoza","2.50
+2.90
+3.00"
+"Celta de Vigo B
+Zamora CF","2.25
+3.20
+2.80"
+"Unionistas CF
+FC Coruxo","1.85
+3.30
+3.70"
+"CD Guijuelo
+RC Dep. La Coruna","5.70
+3.20
+1.60"
+"Pontevedra CF
+Salamanca CF UDS","1.65
+3.40
+4.70"
+"Real Sociedad B
+Real Union Irun","1.70
+3.60
+4.20"
+"Deportivo Alaves II
+SD Amorebieta","2.80
+2.65
+2.65"
+"Barakaldo CF
+Arenas Getxo","2.15
+2.90
+3.30"
+"SD Leioa
+Athletic Bilbao B","3.20
+2.80
+2.25"
+"SD Tarazona
+Club Haro Deportivo","2.25
+2.80
+3.20"
+"CD Izarra
+SD Ejea","2.45
+3.00
+2.70"
+"SD Logrones
+CD Calahorra","2.90
+2.80
+2.45"
+"AE Prat
+CF Badalona","2.35
+2.60
+3.30"
+"UE Llagostera
+Espanyol Barcelona B","2.90
+2.35
+2.90"
+"CE L'hospitalet
+FC Barcelona Atletic","3.00
+2.50
+2.65"
+"Valencia CF Mestalla
+UD Ibiza","3.60
+3.10
+1.95"
+"Hercules Alicante
+Orihuela CF","1.60
+3.10
+5.70"
+"PD Santa Eulalia
+CF La Nucia","2.20
+2.65
+3.60"
+"CD Alcoyano
+Atl. Levante UD","2.30
+2.75
+3.20"
+"Cadiz B
+CD Marino","1.52
+3.50
+6.00"
+"Atletico Sanluqueno
+Marbella FC","3.10
+2.55
+2.50"
+"Algeciras CF
+UD Tamaraceite","2.10
+2.60
+4.00"
+"RC Recreativo de Huelva
+Real Balompedica Linense","1.85
+3.00
+4.20"
+"UD Las Palmas Atl.
+San Fernando CD","3.70
+2.80
+2.05"
+"Lorca Deportiva CF
+Yeclano Deportivo","2.30
+2.80
+3.10"
+"CD El Ejido 2012
+Club Rec. Granada","2.15
+2.70
+3.60"
+"CF Getafe B
+Intl. de Madrid Boad.","1.75
+3.30
+4.10"
+"Las Rozas CF
+Atletico Madrid B","2.45
+2.80
+2.90"
+"CD Atletico Baleares
+UD San Sebastian","1.50
+3.70
+5.70"
+"Rayo Majadahonda
+UD Poblense","1.55
+3.50
+5.50"
+"CD Badajoz
+CP Villarrobledo","1.20
+5.20
+12.00"
+"UD Socuellamos CF
+Merida AD","2.10
+3.00
+3.30"
+"Villarrubia CF
+UD Melilla","2.90
+2.40
+2.90"
+"CD DON Benito
+CF Villanovense","2.90
+2.70
+2.55"
+"Extremadura UD
+CF Talavera","1.55
+3.30
+6.20"
+"AC Fiorentina
+Benevento Calcio","1.50
+4.50
+5.70"
+"UC Sampdoria
+Bologna FC","2.50
+3.60
+2.60"
+"Hellas Verona
+US Sassuolo","3.10
+3.70
+2.15"
+"AS Roma
+Parma Calcio","1.47
+4.70
+6.00"
+"Inter Milan
+FC Torino","1.27
+6.20
+9.00"
+"Udinese Calcio
+Genoa FC","1.75
+3.80
+4.40"
+"SSC Napoli
+AC Milan","2.20
+3.50
+3.10"
+"Ascoli Calcio 1898
+Virtus Entella","2.30
+3.00
+3.20"
+"Urbs Sportiva Reggina 1914
+AC Pisa 1909","2.05
+3.20
+3.60"
+"US Citta di Pontedera
+Aurora Pro Patria","2.15
+3.20
+3.10"
+"Calcio Lecco
+US Pergolettese 1932","1.80
+3.50
+3.90"
+"Lucchese Libertas
+AS Giana Erminio","2.40
+2.90
+3.00"
+"Juventus U23
+US Pistoiese 1921","1.95
+3.10
+3.70"
+"Pro Vercelli
+AC Pro Sesto","2.10
+3.00
+3.40"
+"Carrarese Calcio
+Olbia Calcio 1905","1.57
+3.60
+5.20"
+"Triestina Calcio
+Fermana FC","1.50
+3.70
+6.00"
+"Modena FC
+FC Sudtirol","2.20
+2.90
+3.30"
+"Matelica
+Cesena FC","2.20
+3.20
+3.00"
+"SSD Vis Pesaro 1898
+Carpi FC 1909","3.30
+2.90
+2.20"
+"Feralpisalo
+Calcio Padova","2.35
+3.10
+2.90"
+"Virtus Vecomp Verona
+Mantova FC","2.25
+2.90
+3.20"
+"Ravenna FC 1913
+SS Sambenedettese C.","3.10
+2.90
+2.30"
+"Foggia Calcio
+Virtus Francavilla","1.75
+3.40
+4.20"
+"Catania Calcio
+Turris Neapolis","2.05
+3.10
+3.40"
+"US Casertana 1908
+SSC Bari","3.80
+3.20
+1.90"
+"AC Monopoli
+Vibonese Calcio","2.40
+2.90
+3.00"
+"US Catanzaro
+Cavese 1919","1.57
+3.70
+5.20"
+"Paganese Cal. 1926
+AS Bisceglie","2.15
+3.00
+3.30"
+"Ternana Calcio
+Teramo Calcio","1.85
+3.30
+3.80"
+"FC Nantes
+FC Metz","2.20
+3.20
+3.40"
+"Stade de Reims
+Olympique Nimes","1.80
+3.60
+4.40"
+"Dijon FCO
+RC Lens","3.40
+3.40
+2.10"
+"Montpellier HSC
+Racing Strasbourg","2.15
+3.40
+3.40"
+"Angers SCO
+Olympique Lyon","4.80
+4.00
+1.65"
+"Lille OSC
+FC Lorient","1.55
+4.00
+6.00"
+"Paris FC (W)
+Bordeaux (W)","3.30
+3.90
+1.80"
+"FK Austria Vienna
+SKN St. Polten","1.90
+3.70
+3.80"
+"WSG Wattens
+FC Flyeralarm Admira","1.95
+3.60
+3.70"
+"SV Ried
+SK Rapid Vienna","7.00
+5.00
+1.40"
+"Sk Rapid Vienna II
+Liebherr GAK","2.90
+3.60
+2.20"
+"Hatayspor
+Caykur Rizespor","2.40
+3.30
+2.90"
+"Konyaspor
+Kasimpasa","2.25
+3.50
+3.00"
+"Göztepe SK
+MKE Ankaragucu","1.95
+3.50
+3.80"
+"Trabzonspor
+B.B. Erzurumspor","1.80
+3.50
+4.50"
+"Antalyaspor
+Alanyaspor","4.30
+3.90
+1.75"
+"Keciörengücü
+Akhisar Bld Spor","1.85
+3.40
+4.00"
+"Tuzlaspor
+Bandirmaspor","1.55
+3.80
+5.70"
+"Adana Demirspor
+Eskisehirspor","1.25
+5.50
+9.00"
+"Ajax Amsterdam
+Heracles Almelo","1.10
+10.00
+20.00"
+"Fortuna Sittard
+Feyenoord Rotterdam","5.20
+4.70
+1.52"
+"Sparta Rotterdam
+ADO Den Haag","1.57
+4.30
+5.20"
+"RKC Waalwijk
+SC Heerenveen","4.20
+4.20
+1.70"
+"FC Twente Enschede
+PSV Eindhoven","5.20
+4.50
+1.55"
+"AZ Alkmaar
+FC Emmen","1.25
+6.30
+10.00"
+"K Beerschot VA
+RSC Anderlecht","2.80
+3.80
+2.25"
+"SV Zulte Waregem
+KV Mechelen","2.80
+3.70
+2.30"
+"Sporting Charleroi
+KAA Gent","2.00
+3.50
+3.70"
+"KRC Genk
+RE Mouscron","1.35
+5.30
+7.50"
+"Union Saint-Gilloise
+RWD Molenbeek 47","1.57
+3.90
+5.20"
+"KVC Westerlo
+Seraing United","2.30
+3.70
+2.70"
+"AD Fafe
+CD Vilar Perdizes","1.20
+5.70
+10.00"
+"Limianos
+GD Fontinhas","3.10
+3.40
+2.10"
+"FC Felgueiras
+CD Tondela","8.50
+3.30
+1.45"
+"SCU Torreense
+Alverca Futebol","2.35
+3.00
+2.90"
+"Vilaverdense
+CO DO Montijo","2.15
+3.10
+3.20"
+"Anadia FC
+CD Pinhalnovense","1.90
+3.30
+3.70"
+"SC Espinho
+Gondomar SC","1.95
+3.40
+3.50"
+"Merelinense FC
+Moreirense FC","9.00
+5.70
+1.22"
+"SC Beira Mar
+CD Santa Clara","6.70
+3.80
+1.45"
+"Desportivo Moncao
+Rio Ave FC","20.00
+10.00
+1.05"
+"Estoril Praia
+Lusitano Ginasio","1.35
+4.40
+7.50"
+"Vilafranquense
+AD Sanjoanense","1.60
+3.80
+4.50"
+"UD Oliveirense
+FC Pacos Ferreira","4.10
+3.60
+1.75"
+"FC Vizela
+Boavista FC","4.30
+3.50
+1.75"
+"Mortagua
+GD Carapinheirense","1.95
+3.40
+3.30"
+"Sertanense FC
+Castelo Branco","2.25
+3.00
+3.00"
+"CA Pero Pinheiro
+UD Santarem","2.15
+3.20
+3.00"
+"FC St. Gallen
+FC Lausanne-Sport","1.90
+3.70
+3.80"
+"FC Sion
+FC Zurich","2.45
+3.50
+2.70"
+"Servette Geneva FC
+FC Lugano","2.20
+3.50
+3.10"
+"Suwon Samsung
+Guangzhou Evergrande","6.50
+3.90
+1.45"
+"Jeonbuk Hyundai
+Shanghai SIPG","1.90
+3.50
+3.40"
+"Odense BK
+Sonderjyske","2.05
+3.30
+3.40"
+"Aalborg BK
+FC Nordsjalland","1.95
+3.70
+3.40"
+"AGF Aarhus
+FC Midtjylland","3.10
+3.40
+2.15"
+"Vejle BK
+Brondby IF","2.90
+3.40
+2.30"
+"FC Amager
+HB Koge","1.70
+3.90
+3.80"
+"Esbjerg FB
+Skive IK","1.40
+4.40
+6.20"
+"Holstebro BK
+FC Sydvest 05","2.55
+3.50
+2.30"
+"BK Avarta
+Skovshoved IF","1.75
+3.50
+3.80"
+"Slagelse BI
+AB Taarnby","1.42
+4.20
+6.00"
+"Energetik BGU
+Dinamo Minsk","5.50
+4.30
+1.45"
+"FC Rukh Brest
+FC Shakhter Soligorsk","9.00
+5.20
+1.25"
+"FC Gorodeya
+Dinamo Brest","6.00
+4.70
+1.37"
+"FC Minsk
+FC Vitebsk","2.05
+3.00
+3.60"
+"FC Smolevichi
+FC Slavia Mozyr","5.70
+4.50
+1.42"
+"FC Neman Grodno
+Slutsksakhar Slutsk","1.18
+5.70
+12.00"
+"Torpedo Zhodino
+FC Isloch","1.57
+3.60
+5.20"
+"FC Bate Borisov
+FC Belshina Bobruisk","1.09
+8.00
+17.00"
+"Lech Poznan
+RKS Rakow Czestochowa","1.90
+3.60
+3.70"
+"MKS Cracovia
+KP Legia Warszawa","3.60
+3.30
+2.00"
+"Odra Opole
+Gornik Leczna","2.45
+2.90
+2.90"
+"LKS Lodz
+MKS Puszcza Niepol.","1.30
+4.20
+10.00"
+"MKS Sandecja
+Radomiak Radom","4.00
+3.30
+1.80"
+"Slask Wroclaw II
+KS Gornik Polkowice","2.90
+3.40
+2.10"
+"Garbarnia Krakow
+Pogon Siedlce","2.45
+3.40
+2.45"
+"Skra Czestochowa
+Olimpia Grudziadz","2.20
+3.20
+2.90"
+"Blekitni Stargard S.
+Znicz Pruszkow","2.50
+3.20
+2.50"
+"Bytovia Bytow
+Sokol Ostroda","1.85
+3.50
+3.50"
+"Wigry Suwalki
+GKS Katowice","2.45
+3.20
+2.55"
+"LKP Motor Lublin
+KS Hutnik Krakow SSA","1.70
+3.70
+3.80"
+"FC Zbrojovka Brno
+1.FK Pribram","1.45
+4.30
+6.20"
+"FC Fastav Zlin
+FC Viktoria Plzen","5.50
+4.00
+1.55"
+"AC Sparta Prague
+Ceske Budejovice","1.22
+6.20
+9.00"
+"FK Viktoria Zizkov
+SK Lisen","1.80
+3.50
+3.80"
+"FC Sellier & B.Vlasim
+Dukla Prague","3.20
+3.20
+2.10"
+"Rangers FC
+Aberdeen FC","1.22
+5.50
+12.00"
+"Kalmar FF
+Djurgardens IF","4.10
+3.50
+1.80"
+"AIK Stockholm
+Orebro SK","1.57
+3.80
+5.20"
+"IF Elfsborg
+Helsingborgs IF","1.57
+4.10
+5.00"
+"Hammarby IF
+Malmo FF","2.05
+3.70
+3.10"
+"Ostersunds FK
+Varbergs Bois","2.80
+3.00
+2.55"
+"Vasteras SK
+Orgryte IS","2.05
+3.50
+3.30"
+"Akropolis IF
+IK Brage","2.55
+3.30
+2.55"
+"Trollhättans FK
+Eskilsminne IF","2.45
+3.70
+2.30"
+"Gefle IF
+Karlstad BK","1.85
+3.60
+3.40"
+"IFK Berga
+IFK Luleaa","3.20
+3.70
+1.90"
+"Kristiansund BK
+Mjondalen","1.65
+4.00
+4.70"
+"Sarpsborg
+Viking FK","2.20
+3.50
+3.00"
+"Odds BK
+IK Start","1.57
+4.10
+5.00"
+"Haugesund FK
+Sandefjord Fotball","1.65
+3.70
+4.70"
+"Stromsgodset
+Bodo/Glimt","4.40
+4.40
+1.60"
+"Lillestrom SK
+KFUM Oslo","1.50
+4.00
+5.20"
+"Raufoss IL
+Tromso IL","2.90
+3.60
+2.10"
+"Valerenga IF (W)
+Avaldsnes IL (W)","1.80
+3.50
+3.60"
+"HNK Orijent 1919
+HNK Cibalia-Vinkovci","2.45
+3.00
+2.70"
+"NK Osijek II
+NK Solin","1.40
+4.10
+6.70"
+"Estudiantes LP
+CA Aldosivi","1.85
+3.30
+4.20"
+"CA Patronato Parana
+Gimnasia LP","2.45
+3.00
+2.90"
+"AEK Athens FC
+AE Larissa","1.27
+4.70
+11.00"
+"Panetolikos
+Aris Thessaloniki FC","3.30
+3.10
+2.25"
+"FC Paok Thessaloniki
+PAS Giannina FC","1.25
+5.70
+9.00"
+"Chivas Guadalajara
+Club Necaxa","2.15
+3.10
+3.40"
+"Sporting Kansas City
+San Jose Earthquakes","1.60
+4.10
+4.50"
+"CSKA Moscow
+PFC Sochi","1.50
+4.00
+6.20"
+"FC Rotor Volgograd
+FC Ural Yekaterinburg","2.90
+3.00
+2.55"
+"FC Rubin Kazan
+FC Rostov","2.45
+3.10
+2.90"
+"Zhfk Yenisey K. (W)
+Chertanovo Moscow (W)","1.55
+3.50
+5.50"
+"Zvezda 2005 Perm (W)
+Ryazan-Vdv (W)","2.30
+2.70
+3.30"
+"NK Aluminij
+NK Tabor Sezana","2.20
+3.60
+2.70"
+"NK Domzale
+NK Celje","2.45
+3.10
+2.70"
+"AFC Hermannstadt
+Astra Giurgiu","2.25
+3.30
+3.00"
+"CFR Cluj
+FC UTA Arad","1.37
+4.30
+9.00"
+"Aerostar Bacau
+Rapid Bucuresti","4.70
+3.60
+1.60"
+"Cherno More Varna
+OFC Botev Vratsa","1.47
+4.10
+5.70"
+"Lokomotiv Plovdiv
+FC Cska 1948","1.75
+3.50
+4.00"
+"Slovan Bratislava
+FC Vion Zlate Moravce","1.20
+6.00
+11.00"
+"FC Minaj
+SC Dnipro-1","3.90
+3.30
+1.85"
+"FC Desna Chernihiv
+FK Lviv","1.25
+5.70
+8.50"
+"Vorskla Poltava
+Kolos Kovalivka","2.10
+3.40
+3.00"
+"MOL Fehérvár FC
+Diosgyori VTK","1.27
+5.20
+7.50"
+"Debreceni EAC
+Szombathelyi Haladas FC","3.70
+3.70
+1.75"
+"Dorogi FC
+Vasas FC","4.40
+3.60
+1.65"
+"Bekescsaba Elore
+BFC Siofok","2.30
+3.30
+2.65"
+"Szentlorinc SE
+Budaorsi SC","5.20
+3.70
+1.52"
+"Soroksar
+FC Ajka","2.05
+3.40
+3.00"
+"Kazincbaricika SC
+Szolnoki MAV FC","2.35
+3.30
+2.60"
+"Aqvital FC
+Debreceni VSC","5.20
+4.50
+1.42"
+"FC Gyor ETO
+Gyirmot FC","2.50
+3.30
+2.45"
+"JK Tammeka
+Viljandi JK Tulevik","2.25
+3.50
+2.75"
+"JK Nomme Kalju
+FC Flora Tallinn","3.40
+3.40
+1.95"
+"FCI Levadia Tallinn
+Paide Linnameeskond","2.45
+3.50
+2.45"
+"Hapoel Hadera
+Maccabi Tel Aviv","10.00
+4.40
+1.30"
+"Beitar Jerusalem
+Maccabi Netanya","1.85
+3.60
+3.60"
+"FK Sarajevo
+FK Olimpic Sarajevo","1.18
+6.00
+10.00"
+"FK Gabala
+FK Neftchi Baku","3.10
+3.20
+2.10"
+"Zira
+Keshla Baku","2.15
+3.10
+3.10"
+"FK Zlatibor
+FK Backa BP","2.20
+3.00
+3.10"
+"FK Vojvodina
+Red Star","4.30
+3.70
+1.65"
+"FK Kabel Novi Sad
+Gfk Jagodina","1.55
+3.60
+5.00"
+"FK Zarkovo
+Trajal Krusevac","2.10
+2.90
+3.40"
+"FK Dinamo Vranje
+R. Sremska Mitrovica","1.85
+3.20
+3.70"
+"São Paulo Futebol Clube
+Club de Regatas Vasco da Gama","1.45
+4.10
+6.70"
+"Ceará Sporting Club
+Clube Atlético Mineiro","2.65
+3.30
+2.50"
+"Botafogo RJ
+Fortaleza Esporte Clube","2.30
+3.00
+3.20"
+"Sport Club Internacional
+Fluminense FC","1.80
+3.30
+4.30"
+"CS Herediano
+Dep. Saprissa","2.90
+3.10
+2.35"
+"AD Cariari Pococi
+Municipal Liberia","2.25
+3.20
+2.80"
+"Puerto Golfito FC
+ADC Barrio Mexico","2.45
+3.10
+2.65"
+"Olympic FC
+Gold Coast Knights","2.15
+3.80
+2.55"
+"FC Lori Vanadzor
+BKMA Yerevan","1.80
+3.20
+4.10"
+"CD Palestino
+Deportes La Serena","1.57
+3.70
+5.20"
+"Everton de Vina Del Mar
+Universidad de Chile","2.15
+3.40
+2.90"
+"CD FAS
+AD Chalatenango","1.65
+3.70
+4.30"
+"CD Atletico M.
+Alianza FC","9.00
+5.20
+1.22"
+"Once Deportivo
+Santa Tecla FC","2.35
+3.20
+2.70"
+"CD Luis Angel Firpo
+Municipal Limeno","2.10
+3.10
+3.20"
+"CD Olmedo
+CD El Nacional","2.20
+3.10
+3.00"
+"CD Cuenca
+SD Aucas","2.75
+3.20
+2.30"
+"Antigua GFC
+Deportivo Achuapa","1.60
+3.50
+4.70"
+"Deportivo Malacateco
+Deportivo Guastatoya","2.05
+3.10
+3.20"
+"Marathon
+CD Platense","1.52
+3.80
+5.00"
+"CD Olimpia
+Real Sociedad Hon.","1.22
+5.50
+9.00"
+"Leones FC
+Valledupar FC","1.95
+3.00
+3.70"
+"Deportes Quindio
+Atlético Huila","1.80
+3.10
+4.10"
+"Nacional FC
+Guairena FC","2.05
+3.10
+3.30"
+"Atl. Venezuela
+Carabobo FC","2.15
+3.30
+2.90"
+"Metropolitanos
+Deportivo Tachira","3.60
+3.20
+1.90"
+"Eastern Suburbs FC
+Canterbury United","1.30
+6.00
+5.70"
+"Urawa Red Diamonds
+Gamba Osaka","2.60
+3.60
+2.30"
+"Tokyo Verdy
+Renofa Yamaguchi","1.45
+4.30
+5.20"
+"Blaublitz Akita
+Kataller Toyama","1.85
+3.10
+3.80"
+"Gainare Tottori
+Vanraure Hachnohe FC","1.85
+3.40
+3.50"
+"Kagoshima United
+SC Sagamihara","2.00
+3.20
+3.20"
+"FC Imabari
+Fukushima United FC","1.80
+3.40
+3.70"
+"Azul Claro Numazu
+Nagano Parceiro","3.80
+3.10
+1.85"
+"Yokohama S.C.C
+Kamatamare Sanuki","2.35
+3.00
+2.75"
+"Gamba Osaka II
+Grulla Morioka","2.25
+3.20
+2.75"
+"Cerezo Osaka II
+Roasso Kumamoto","4.20
+3.20
+1.75"
+"Mio Biwako Shiga
+Tokyo Musash. City","2.90
+3.20
+2.15"
+"Wuhan Zall
+Zhejiang Greentown","1.80
+3.10
+4.40"
+"Hong Kong Rangers
+Happy Valley AA","2.75
+3.30
+2.25"
+"Kitchee SC
+Lee Man Warriors FC","1.75
+4.00
+3.40"
+"Central & Western
+Hoi King","2.20
+4.00
+2.45"
+"Citizen AA
+Wong Tai Sin","1.85
+4.10
+3.10"
+"Sham Shui Po SA
+Eastern District","4.20
+4.40
+1.55"
+"Shatin
+Yuen Long District SA","5.00
+4.70
+1.42"
+"Wing Yee Ft
+ICanfield FC","1.60
+4.70
+3.70"
+"FC Goa
+Bengaluru FC","2.75
+3.00
+2.40"
+"Tanjong Pagar United FC
+Tampines Rovers FC","12.00
+6.20
+1.16"
+"Lion City Sailors FC
+Albirex Niigata FC","2.30
+3.20
+2.80"
+"Hang Yuen FC
+Tainan City F.C.","4.70
+3.10
+1.70"
+"Ming Chuan Univer.
+Tatung FC","12.00
+6.50
+1.13"
+"Nat. Taiwan Uni of Sp.
+Taiwan Power C.","7.50
+5.50
+1.25"
+"Taichung Futuro
+Taipei Red Lions","1.13
+6.50
+12.00"
+"Ratchaburi FC
+Samut Prakan City","1.80
+3.40
+3.80"
+"Muang Thong Utd
+Nakhon Ratchasima","1.40
+4.20
+6.50"
+"Sukhothai FC
+Buriram United FC","3.00
+3.70
+1.95"
+"Uthai Thani FC
+Kasetsart FC","2.25
+3.20
+2.80"
+"Samut Sakhon
+Nakhon Pathom United FC","5.50
+4.10
+1.45"
+"Sisaket FC
+Khonkaen FC","1.95
+3.30
+3.40"
+"Chiangmai United
+Ayutthaya United","1.60
+3.80
+4.50"
+"Malavan Bandar Anzali FC
+Ghasghaei Shiraz","1.80
+3.00
+4.30"
+"Arman Gohar Sirjan
+Pars Jonoubi Jam","2.00
+2.80
+3.90"
+"Rayka Babol FC
+Esteghlal Mollasani","1.70
+3.00
+5.20"
+"Havadar SC
+Navad Urmia FC","2.25
+2.60
+3.50"
+"Fajr Sepasi FC
+Khosheh Talaei","2.80
+2.70
+2.60"
+"Gol Reyhan
+Sanat Mes Kerman FC","3.20
+2.75
+2.30"
+"Shahin Bushehr FC
+Shahrdari Astara","1.40
+3.70
+7.50"
+"Esteghlal Khuz.
+Baderan Tehran","1.70
+3.00
+5.20"
+"Al-Duhail SC
+Al Gharafa SC","1.45
+4.10
+5.70"
+"Al Rayyan SC
+Al Kharaitiyat SC","1.50
+3.90
+5.20"
+"Al Arabi Doha SC
+Al-sadd","12.00
+7.00
+1.12"
+"Elmina Sharks
+Liberty Professionals","1.75
+3.20
+4.40"
+"King Faisal
+Aduana Stars","2.80
+3.10
+2.30"
+"Berekum Chelsea
+Asante Kotoko","2.35
+2.70
+3.20"
+"Dreams
+Medeama SC","2.40
+2.70
+3.10"
+"Karela FC
+Inter Allies FC","1.75
+3.20
+4.40"
+"Kagera Sugar
+Mwadui FC","2.20
+2.60
+3.70"
+"Young Africans SC
+Namungo FC","1.50
+3.60
+6.00"
+"Cape Town City FC
+Bloemfontein Celtic","2.20
+2.90
+3.30"
+"Mamelodi Sundowns
+AmaZulu FC","1.35
+4.10
+8.50"
+"Tshakhuma Tsha Madzivhandila FC
+Baroka FC","2.90
+2.70
+2.60"
+"Balzan FC
+Floriana FC","3.70
+3.60
+1.75"
+"Senglea Athletic
+Mosta FC","4.30
+3.90
+1.60"
+"Nea Salamina Famagusta FC
+AC Omonia Nicosia","4.50
+3.60
+1.65"
+"AEL Limassol FC
+Anorthosis Famagusta FC","2.90
+3.40
+2.15"
+"AEK Larnaca FC
+Apoll. Limassol","2.75
+2.80
+2.65"

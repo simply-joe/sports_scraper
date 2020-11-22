@@ -1,6 +1,7 @@
 #Import Selenium
 from selenium import webdriver
 import pandas as pd
+from datetime import date
 # Uncomment to get info into google big query
 # from google.cloud import bigquery
 
@@ -52,5 +53,7 @@ driver.quit()
 dict_gambling = {'Teams': teams, '1x2': x12}
 #Presenting data in dataframe
 df_gambling = pd.DataFrame.from_dict(dict_gambling)
-df_gambling.to_csv('daily_soccer.csv')
+date = date.today().strftime("%d_%m_%Y")
+csv_name = 'daily_soccer'+date
+df_gambling.to_csv(csv_name+".csv", sep =',', index=False)
 print(df_gambling)
